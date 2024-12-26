@@ -54,3 +54,4 @@ This project demonstrates the implementation of multivariable regression to pred
 2. navigate to directory
    ```bash
    cd multivariable_regression   
+3. open file and run cells in order
